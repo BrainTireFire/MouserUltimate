@@ -1,0 +1,11 @@
+C:\Users\brAiN\source\repos\MonitorWaker v0.1\MonitorWaker v0.1\bin\Debug\MonitorWaker v0.1.exe.config
+C:\Users\brAiN\source\repos\MonitorWaker v0.1\MonitorWaker v0.1\bin\Debug\MonitorWaker v0.1.exe
+C:\Users\brAiN\source\repos\MonitorWaker v0.1\MonitorWaker v0.1\bin\Debug\MonitorWaker v0.1.pdb
+C:\Users\brAiN\source\repos\MonitorWaker v0.1\MonitorWaker v0.1\obj\Debug\MonitorWaker v0.1.csprojAssemblyReference.cache
+C:\Users\brAiN\source\repos\MonitorWaker v0.1\MonitorWaker v0.1\obj\Debug\MonitorWaker_v0._1.Form1.resources
+C:\Users\brAiN\source\repos\MonitorWaker v0.1\MonitorWaker v0.1\obj\Debug\MonitorWaker_v0._1.Properties.Resources.resources
+C:\Users\brAiN\source\repos\MonitorWaker v0.1\MonitorWaker v0.1\obj\Debug\MonitorWaker v0.1.csproj.GenerateResource.cache
+C:\Users\brAiN\source\repos\MonitorWaker v0.1\MonitorWaker v0.1\obj\Debug\MonitorWaker v0.1.csproj.CoreCompileInputs.cache
+C:\Users\brAiN\source\repos\MonitorWaker v0.1\MonitorWaker v0.1\obj\Debug\MonitorWaker v0.1.exe
+C:\Users\brAiN\source\repos\MonitorWaker v0.1\MonitorWaker v0.1\obj\Debug\MonitorWaker v0.1.pdb
+C:\Users\brAiN\source\repos\MonitorWaker v0.1\MonitorWaker v0.1\obj\Debug\MonitorWaker_v0._1.FormScreenWaker.resources
