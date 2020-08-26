@@ -1,0 +1,12 @@
+C:\Users\maciej_kawecki\source\repos\MonitorWaker v0.1\MonitorWaker v0.1\bin\Release\MonitorWaker v0.1.exe.config
+C:\Users\maciej_kawecki\source\repos\MonitorWaker v0.1\MonitorWaker v0.1\bin\Release\MonitorWaker v0.1.exe
+C:\Users\maciej_kawecki\source\repos\MonitorWaker v0.1\MonitorWaker v0.1\bin\Release\MonitorWaker v0.1.pdb
+C:\Users\maciej_kawecki\source\repos\MonitorWaker v0.1\MonitorWaker v0.1\bin\Release\FontAwesome.Sharp.dll
+C:\Users\maciej_kawecki\source\repos\MonitorWaker v0.1\MonitorWaker v0.1\obj\Release\MonitorWaker v0.1.csprojAssemblyReference.cache
+C:\Users\maciej_kawecki\source\repos\MonitorWaker v0.1\MonitorWaker v0.1\obj\Release\MonitorWaker_v0._1.Form1.resources
+C:\Users\maciej_kawecki\source\repos\MonitorWaker v0.1\MonitorWaker v0.1\obj\Release\MonitorWaker_v0._1.FormScreenWaker.resources
+C:\Users\maciej_kawecki\source\repos\MonitorWaker v0.1\MonitorWaker v0.1\obj\Release\MonitorWaker_v0._1.Properties.Resources.resources
+C:\Users\maciej_kawecki\source\repos\MonitorWaker v0.1\MonitorWaker v0.1\obj\Release\MonitorWaker v0.1.csproj.GenerateResource.cache
+C:\Users\maciej_kawecki\source\repos\MonitorWaker v0.1\MonitorWaker v0.1\obj\Release\MonitorWaker v0.1.csproj.CopyComplete
+C:\Users\maciej_kawecki\source\repos\MonitorWaker v0.1\MonitorWaker v0.1\obj\Release\MonitorWaker v0.1.exe
+C:\Users\maciej_kawecki\source\repos\MonitorWaker v0.1\MonitorWaker v0.1\obj\Release\MonitorWaker v0.1.pdb

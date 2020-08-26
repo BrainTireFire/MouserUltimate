@@ -9,3 +9,17 @@ C:\Users\brAiN\source\repos\MonitorWaker v0.1\MonitorWaker v0.1\obj\Debug\Monito
 C:\Users\brAiN\source\repos\MonitorWaker v0.1\MonitorWaker v0.1\obj\Debug\MonitorWaker v0.1.exe
 C:\Users\brAiN\source\repos\MonitorWaker v0.1\MonitorWaker v0.1\obj\Debug\MonitorWaker v0.1.pdb
 C:\Users\brAiN\source\repos\MonitorWaker v0.1\MonitorWaker v0.1\obj\Debug\MonitorWaker_v0._1.FormScreenWaker.resources
+C:\Users\maciej_kawecki\source\repos\MonitorWaker v0.1\MonitorWaker v0.1\bin\Debug\MonitorWaker v0.1.exe.config
+C:\Users\maciej_kawecki\source\repos\MonitorWaker v0.1\MonitorWaker v0.1\bin\Debug\MonitorWaker v0.1.exe
+C:\Users\maciej_kawecki\source\repos\MonitorWaker v0.1\MonitorWaker v0.1\bin\Debug\MonitorWaker v0.1.pdb
+C:\Users\maciej_kawecki\source\repos\MonitorWaker v0.1\MonitorWaker v0.1\bin\Debug\FontAwesome.Sharp.dll
+C:\Users\maciej_kawecki\source\repos\MonitorWaker v0.1\MonitorWaker v0.1\obj\Debug\MonitorWaker_v0._1.Form1.resources
+C:\Users\maciej_kawecki\source\repos\MonitorWaker v0.1\MonitorWaker v0.1\obj\Debug\MonitorWaker_v0._1.FormScreenWaker.resources
+C:\Users\maciej_kawecki\source\repos\MonitorWaker v0.1\MonitorWaker v0.1\obj\Debug\MonitorWaker_v0._1.Properties.Resources.resources
+C:\Users\maciej_kawecki\source\repos\MonitorWaker v0.1\MonitorWaker v0.1\obj\Debug\MonitorWaker v0.1.csproj.GenerateResource.cache
+C:\Users\maciej_kawecki\source\repos\MonitorWaker v0.1\MonitorWaker v0.1\obj\Debug\MonitorWaker v0.1.csproj.CopyComplete
+C:\Users\maciej_kawecki\source\repos\MonitorWaker v0.1\MonitorWaker v0.1\obj\Debug\MonitorWaker v0.1.exe
+C:\Users\maciej_kawecki\source\repos\MonitorWaker v0.1\MonitorWaker v0.1\obj\Debug\MonitorWaker v0.1.pdb
+C:\Users\maciej_kawecki\source\repos\MonitorWaker v0.1\MonitorWaker v0.1\obj\Debug\MonitorWaker v0.1.csprojAssemblyReference.cache
+C:\Users\brAiN\source\repos\MonitorWaker v0.1\MonitorWaker v0.1\bin\Debug\FontAwesome.Sharp.dll
+C:\Users\brAiN\source\repos\MonitorWaker v0.1\MonitorWaker v0.1\obj\Debug\MonitorWaker v0.1.csproj.CopyComplete

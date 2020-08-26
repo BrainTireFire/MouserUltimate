@@ -6,6 +6,7 @@ using System.Threading.Tasks;
 using System.Windows.Forms;
 using System.Drawing;
 using System.Runtime.InteropServices;
+using System.Threading;
 
 namespace MonitorWaker_v0._1
 {
@@ -45,23 +46,22 @@ namespace MonitorWaker_v0._1
             {
                 if (GetAsyncKeyState(Keys.Escape) < 0)
                 {
-                    break;
+
                 }
 
-                point.X += 1;
-                point.Y += 1;
+                point.X += 100;
+                point.Y += 100;
                 Cursor.Position = point;
                 mouse_event(0, (uint)Cursor.Position.X, (uint)Cursor.Position.Y, 0, 0);
                 System.Threading.Thread.Sleep(500);
 
-                point.X -= 1;
-                point.Y -= 1;
+                point.X -= 100;
+                point.Y -= 100;
                 Cursor.Position = point;
                 System.Threading.Thread.Sleep(500);
             }
 
         }
-
 
         private int timeCounter = 0;
 
