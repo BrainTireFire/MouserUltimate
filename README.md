@@ -6,8 +6,7 @@ You can use in work :) This is write in c#.
 
 ## Features
 Mouse clicker,
-Mouse mover,
-Stoper mouse
+Mouse mover
 
 ## Contribute
 Feel free to contribute
