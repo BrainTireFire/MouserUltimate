@@ -6,8 +6,8 @@ You can use in work :) This is write in c#.
 
 ## Features
 Mouse clicker,
-Mouse mover
+Mouse mover,
+Mouse timer
 
 ## Contribute
 Feel free to contribute
-
