@@ -7,7 +7,7 @@ You can use in work :) This is write in c#.
 ## Features
 Mouse clicker,
 Mouse mover,
-Mouse timer
+Mouse timer,
 
 ## Contribute
 Feel free to contribute
